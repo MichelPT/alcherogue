@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Per-user Xcode state
+**/xcuserdata/
+**/*.xcuserstate
+**/*.xccheckout
+**/*.xcscmblueprint
+
+# Local Xcode build products
+**/DerivedData/
+**/Il2CppTempDirArtifacts/
+*.xcarchive
+*.ipa
+*.dSYM/
+*.dSYM.zip
+
+# Logs
+*.log
+
+# Unity non-shipping debug information
+*_BurstDebugInformation_DoNotShip/
